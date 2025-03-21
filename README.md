@@ -2,7 +2,7 @@
 * 📚 I'm currently a Computer Science/Computer & Electrical Engineering Double Major at UAF.
 * 👀 I’m interested in Web Dev & Design, Software Development, Data Science, & Embedded System Programming.
 * 🌱 Currently I am learning advanced systems and algorithms
-* 💞️ I’d love to connect and collaborate on anything hands-on including HTML, CSS, JavaScript, C, C++, and Python.
+* 💞️ I’d love to connect and collaborate on anything hands-on including SwiftUI, C, C++, and Python.
 * 💡 Have an idea and want to collaborate? Reach me via email: jewelnmaldo@gmail.com
 
 <!---
